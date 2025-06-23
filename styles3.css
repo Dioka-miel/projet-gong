@@ -6,6 +6,7 @@
 
 body {
   display: flex;
+  width: 100%;
 }
 
 img {
@@ -72,6 +73,8 @@ footer {
   background-color: white;
   border-top: 1px solid #262626;
   width: 100%;
+  position: absolute;
+  top: 120vh;
   padding: 80px 60px 40px 60px;
 }
 
